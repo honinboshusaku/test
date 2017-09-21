@@ -1,2 +1,3 @@
 # test
-New Test Project
+New Test Project.
+Added text for testing purposes.
